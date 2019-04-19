@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "873515976908",
+    "firebase_url": "https://petket-be3e9.firebaseio.com",
+    "project_id": "petket-be3e9",
+    "storage_bucket": "petket-be3e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873515976908:android:e2686f581a049590",
+        "android_client_info": {
+          "package_name": "com.example.petket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873515976908-pjb7ld9bjdb0o21a24jftcshamfsjnd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk6j92KUnUnSnnaD4y29s9JpS1ol-1aZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

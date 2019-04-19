@@ -1,0 +1,488 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:1-58:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/7141e14ed6515eaaa073b3db49a71c73/AndroidManifest.xml:17:1-22:12
+MERGED from [:firebase_auth] /Users/swapnilgaidhankar/Desktop/t/petket/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_facebook_login] /Users/swapnilgaidhankar/Desktop/t/petket/build/flutter_facebook_login/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] /Users/swapnilgaidhankar/Desktop/t/petket/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /Users/swapnilgaidhankar/Desktop/t/petket/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/d4ccbdf5c6fe68c2c20970989b36405f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:17:1-38:12
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/19cd51dabebf3242848aca5da57847cd/AndroidManifest.xml:21:1-31:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fc32f7772c8317f1a91be4513280a41c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/bf4108a9a4dc646cdbd0de3ff3220526/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/5eae57c072eda8196e60f0133fc65d94/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/1d12f885cb624cefb54e9fbe9daf558f/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/dbf0ffc3c58ea8bd4762007a87131926/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d673379df17ade6e2f65681496d37369/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/caa224a2825a4bfe6dfca96787313f4f/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/d2e4ad8fcf01ed5863f1450909340b40/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/a2e4f3ca082a8922c3f242e5bdc54178/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/04612b0f78fb2eec2903dc5baef984e6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/bc1a453ce9044b5e4e6ee6271f6a9300/AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:21:1-36:12
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/d60ae3cee95338ba9d4bd1d21f636e71/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:support-v4:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/aa5cbd91e4718f932f81e3c3e2517b2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/b50d3c3963b45f68376396627366dd10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/710d91afa654897559e6f742554712b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/8b282008a2e71611157f02a901d79312/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.1.aar/41f1741b8a01c278403fdc1d549fe619/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/1b26e972f7e5458ea4602cd3d8487912/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/44446df335c4ef3f00be3288b5af6d3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/7913a55e31f1ec539ba8ee1cdc744357/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/b40690173c3856b32df4f534495c5530/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/16d06e4a4998e87554c8fa2af0fa2608/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/21e8929f976e956ef8d171a32fa8190b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/83ab87dd8b09c31923e802368f4384e9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.1.aar/649e8d652f05dc1448835bc6b11e086c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/18ce34a156f84c27debd070f0b1c0339/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:1-58:12
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:1-58:12
+	package
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:1-58:12
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:1-58:12
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:15:5-57:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/d4ccbdf5c6fe68c2c20970989b36405f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/d4ccbdf5c6fe68c2c20970989b36405f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:22:5-36:19
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/19cd51dabebf3242848aca5da57847cd/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/19cd51dabebf3242848aca5da57847cd/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/bf4108a9a4dc646cdbd0de3ff3220526/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/bf4108a9a4dc646cdbd0de3ff3220526/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/5eae57c072eda8196e60f0133fc65d94/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/5eae57c072eda8196e60f0133fc65d94/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/1d12f885cb624cefb54e9fbe9daf558f/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/1d12f885cb624cefb54e9fbe9daf558f/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/dbf0ffc3c58ea8bd4762007a87131926/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/dbf0ffc3c58ea8bd4762007a87131926/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d673379df17ade6e2f65681496d37369/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d673379df17ade6e2f65681496d37369/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/d2e4ad8fcf01ed5863f1450909340b40/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/d2e4ad8fcf01ed5863f1450909340b40/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/a2e4f3ca082a8922c3f242e5bdc54178/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/a2e4f3ca082a8922c3f242e5bdc54178/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/04612b0f78fb2eec2903dc5baef984e6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/04612b0f78fb2eec2903dc5baef984e6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/bc1a453ce9044b5e4e6ee6271f6a9300/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/bc1a453ce9044b5e4e6ee6271f6a9300/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/d60ae3cee95338ba9d4bd1d21f636e71/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/d60ae3cee95338ba9d4bd1d21f636e71/AndroidManifest.xml:28:5-43:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/18ce34a156f84c27debd070f0b1c0339/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/18ce34a156f84c27debd070f0b1c0339/AndroidManifest.xml:7:5-20
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-login:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/19cd51dabebf3242848aca5da57847cd/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:17:9-31
+	android:icon
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.example.petket.MainActivity
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:35:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:39:9-40:50
+	android:value
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:40:9-48
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:39:20-65
+activity#com.facebook.FacebookActivity
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:42:5-45:44
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:45:9-41
+	android:configChanges
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:43:9-109
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:42:15-59
+activity#com.facebook.CustomTabActivity
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:46:5-55:16
+	android:exported
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:48:9-32
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:47:9-54
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/fb_login_protocol_scheme
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:49:9-54:25
+action#android.intent.action.VIEW
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:50:13-65
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:50:21-62
+category#android.intent.category.DEFAULT
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:51:13-72
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:51:23-69
+category#android.intent.category.BROWSABLE
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:52:23-71
+data
+ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:53:13-71
+	android:scheme
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml:53:19-68
+uses-sdk
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/7141e14ed6515eaaa073b3db49a71c73/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/7141e14ed6515eaaa073b3db49a71c73/AndroidManifest.xml:20:5-43
+MERGED from [:firebase_auth] /Users/swapnilgaidhankar/Desktop/t/petket/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/swapnilgaidhankar/Desktop/t/petket/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_login] /Users/swapnilgaidhankar/Desktop/t/petket/build/flutter_facebook_login/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_facebook_login] /Users/swapnilgaidhankar/Desktop/t/petket/build/flutter_facebook_login/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/swapnilgaidhankar/Desktop/t/petket/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/swapnilgaidhankar/Desktop/t/petket/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/swapnilgaidhankar/Desktop/t/petket/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/swapnilgaidhankar/Desktop/t/petket/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/d4ccbdf5c6fe68c2c20970989b36405f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/d4ccbdf5c6fe68c2c20970989b36405f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/19cd51dabebf3242848aca5da57847cd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/19cd51dabebf3242848aca5da57847cd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fc32f7772c8317f1a91be4513280a41c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/fc32f7772c8317f1a91be4513280a41c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/bf4108a9a4dc646cdbd0de3ff3220526/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/bf4108a9a4dc646cdbd0de3ff3220526/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/5eae57c072eda8196e60f0133fc65d94/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/5eae57c072eda8196e60f0133fc65d94/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/1d12f885cb624cefb54e9fbe9daf558f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/1d12f885cb624cefb54e9fbe9daf558f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/dbf0ffc3c58ea8bd4762007a87131926/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/dbf0ffc3c58ea8bd4762007a87131926/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d673379df17ade6e2f65681496d37369/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/d673379df17ade6e2f65681496d37369/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/caa224a2825a4bfe6dfca96787313f4f/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/caa224a2825a4bfe6dfca96787313f4f/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/d2e4ad8fcf01ed5863f1450909340b40/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/d2e4ad8fcf01ed5863f1450909340b40/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/a2e4f3ca082a8922c3f242e5bdc54178/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/a2e4f3ca082a8922c3f242e5bdc54178/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/04612b0f78fb2eec2903dc5baef984e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/04612b0f78fb2eec2903dc5baef984e6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/bc1a453ce9044b5e4e6ee6271f6a9300/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/bc1a453ce9044b5e4e6ee6271f6a9300/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/d60ae3cee95338ba9d4bd1d21f636e71/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/d60ae3cee95338ba9d4bd1d21f636e71/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/aa5cbd91e4718f932f81e3c3e2517b2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/aa5cbd91e4718f932f81e3c3e2517b2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/b50d3c3963b45f68376396627366dd10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/b50d3c3963b45f68376396627366dd10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/710d91afa654897559e6f742554712b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/710d91afa654897559e6f742554712b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/8b282008a2e71611157f02a901d79312/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/8b282008a2e71611157f02a901d79312/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.1.aar/41f1741b8a01c278403fdc1d549fe619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.1.aar/41f1741b8a01c278403fdc1d549fe619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/1b26e972f7e5458ea4602cd3d8487912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/1b26e972f7e5458ea4602cd3d8487912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/44446df335c4ef3f00be3288b5af6d3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/44446df335c4ef3f00be3288b5af6d3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/7913a55e31f1ec539ba8ee1cdc744357/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/7913a55e31f1ec539ba8ee1cdc744357/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/b40690173c3856b32df4f534495c5530/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/b40690173c3856b32df4f534495c5530/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/16d06e4a4998e87554c8fa2af0fa2608/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/16d06e4a4998e87554c8fa2af0fa2608/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/21e8929f976e956ef8d171a32fa8190b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/21e8929f976e956ef8d171a32fa8190b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/83ab87dd8b09c31923e802368f4384e9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/83ab87dd8b09c31923e802368f4384e9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.1.aar/649e8d652f05dc1448835bc6b11e086c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.1.aar/649e8d652f05dc1448835bc6b11e086c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/18ce34a156f84c27debd070f0b1c0339/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/18ce34a156f84c27debd070f0b1c0339/AndroidManifest.xml:5:5-44
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/swapnilgaidhankar/Desktop/t/petket/android/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/4ecbcc6870f1d6dee83af3ef94a6f869/AndroidManifest.xml:33:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:10:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/df893a8be9fa68d757df46382553a920/AndroidManifest.xml:16:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/7b3ba604d8150c1d36758e992db240d7/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/7ddc1bb4223df56356626b35a5a93372/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/1057732c893242f1ae54b4c345596011/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/c02f02d82660f4d9e24dc21bde5af67a/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/dbf0ffc3c58ea8bd4762007a87131926/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/dbf0ffc3c58ea8bd4762007a87131926/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/dbf0ffc3c58ea8bd4762007a87131926/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/dbf0ffc3c58ea8bd4762007a87131926/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/b8beebaefa90e8beda608a8a34b41c5c/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/bc1a453ce9044b5e4e6ee6271f6a9300/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/bc1a453ce9044b5e4e6ee6271f6a9300/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/bc1a453ce9044b5e4e6ee6271f6a9300/AndroidManifest.xml:24:13-58
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/0ef5c5d286a2fed53eb401b0b95ae39e/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/d60ae3cee95338ba9d4bd1d21f636e71/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/d60ae3cee95338ba9d4bd1d21f636e71/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/d60ae3cee95338ba9d4bd1d21f636e71/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.29.0] /Users/swapnilgaidhankar/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/d60ae3cee95338ba9d4bd1d21f636e71/AndroidManifest.xml:40:13-70
